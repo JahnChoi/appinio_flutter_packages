@@ -9,7 +9,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  cached_video_player_plus: ^3.0.2
+  cached_video_player_plus: ^3.0.3
   flutter:
     sdk: flutter
 
